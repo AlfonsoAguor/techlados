@@ -1,0 +1,85 @@
+/*Estilo de los productos (tienda)*/
+.bodytienda {
+    background-image: url(img/retina_wood.jpg);
+    margin: 50px 600px 50px 500px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.bodytienda a {
+    text-decoration: none;
+    color: black;
+}
+
+.bodytienda a:hover {
+    text-decoration: none;
+    color: #034A73;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.titPro {
+    font-size: 22px;
+    font-weight: bold;
+    color: #355C37;
+}
+
+.infoPro {
+    font-style: italic;
+}
+
+.precioPro {
+    color: #730303;
+}
+
+/*Estilo cesta*/
+.bodycesta {
+    background-image: url(img/retina_wood.jpg);
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 50px 700px 50px 500px;
+    padding: 15px 15px 15px 15px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.bodypedi {
+    background-image: url(img/retina_wood.jpg);
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 50px 425px 50px 500px;
+    padding: 15px 15px 15px 15px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.tacesta {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tocesta {
+    font-style: italic;
+}
+
+.bodycesta a {
+    text-decoration: none;
+    color: black;
+}
+
+.bodycesta a:hover {
+    text-decoration: none;
+    color: #034A73;
+    font-weight: bold;
+    font-size: 20px;
+}
+ 
+/*Estilo de contacto*/
+.contacto {
+    background-image: url(img/retina_wood.jpg);
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px 15px 15px 15px;
+    font-size: 17px;
+    text-align: center;
+}

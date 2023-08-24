@@ -1,0 +1,214 @@
+/*Estilo menu Administrador*/
+#menu {
+    background-color: #808080;   
+    }
+#menu a {
+    text-decoration: none;
+    color: white;
+    padding-left: 250px;
+    padding-right: 250px;
+    }
+#menu a:hover {
+    font-size: 23px;
+    color:black;
+    }
+
+/*Estilo menu Formulario*/
+#menuFor {
+    background-color: #808080;   
+    }
+#menuFor a {
+    text-decoration: none;
+    color: white;
+    padding-left: 90px;
+    padding-right: 90px;
+    }
+#menuFor a:hover {
+    font-size: 23px;
+    color:black;
+    }
+
+/*Estilo menu invitado*/
+#menuIn {
+    background-color: #808080;   
+    }
+#menuIn td {
+    padding-left: 650px;
+    font-size: 25px;
+}
+
+/*Estilo menu Tienda*/
+#menuTI {
+    background-color: #808080;   
+    }
+#menuTI {
+    background-color: #808080;
+}
+#menuTI a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+    }
+#menuTI a:hover {
+    font-size: 23px;
+    color:black;
+    }
+
+/*Estilo menu informacion*/
+#menuia {
+    background-color: #808080;   
+    }
+#menuia a {
+    text-decoration: none;
+    color: white;
+    padding-left: 140px;
+    padding-right: 140px;
+    }
+#menuia a:hover {
+    font-size: 23px;
+    color:black;
+    }
+/*Estilo cabecera*/
+#cuerpo {
+    background-color: black;
+    color: white;
+}
+#logo {
+    padding-left: 10px;
+}
+#titulo {
+    padding-left: 350px;
+}
+#registro {
+    padding-left: 250px;
+}
+
+.pedido a {
+    text-decoration: none;
+    padding-left: 250px;
+    color: white;
+}
+
+.pedido a:hover {
+    text-decoration: none;
+    padding-left: 250px;
+    color: #808080;
+    font-size: 20px;
+}
+
+/*Estilo pagina tienda*/
+#ti {
+    background-image: url("./img/oscuro.png");
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#tienda {
+    padding-top: 60px;
+}
+#tienda h1 {
+    text-align: center;
+}
+#tienda a {
+    text-decoration: none;
+    color: white;
+}
+#tienda a:hover {
+    font-size: 50px;
+}
+
+/*Estilo pagina informacion*/
+#in {
+    background-image: url("./img/claro.png");
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#informacion {
+    padding-top: 60px;
+}
+#informacion h1 {
+    text-align: center;
+}
+#informacion a {
+    text-decoration: none;
+    color: black;
+}
+#informacion a:hover {
+    font-size: 50px;
+}
+/*Estilo pie*/
+#pie a {
+    text-decoration: none;
+    color: white;
+    padding-left: 200px;
+    padding-right: 200px;
+    }
+#pie a:hover {
+    font-size: 23px;
+    color:black;
+    }
+#pie {
+    background-color: #808080;   
+}
+
+/*estilo eliminar formularios*/
+#formBody {
+    background-image: url("./img/blanco.png");
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#bodyForm {
+    background-image: url("./img/blanco.png");
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#formu {
+    padding-top: 100px;
+    padding-left: 250px;
+}
+#tabla {
+    background-color: #353535;
+    border-radius: 15px;
+    color: white;
+}
+
+#info {
+    background-color: aqua;
+}
+ 
+/*Estilo paginas informacion*/
+.mon {
+     background-image: url(img/blanco.png);
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.info {
+   background-image: url(img/blanco.png);
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font
+}
+
+.partes {
+   background-image: url(img/blanco.png);
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.sw {
+   background-image: url(img/blanco.png);
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
